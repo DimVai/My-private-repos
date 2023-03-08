@@ -4,14 +4,20 @@
 <hr>
 
 ## ChordPage
-http://chordpage.com
+https://chordpage.com
 A big project, currently in production. It is an online tool for musicians for writing beautiful music sheets for their band. Check it out!
 
 <hr>
 
+## Meteo
+https://meteogr.up.railway.app (visit using a mobile phone)
+A simple and super fast mobile application that provides weather forecast for Greek cities. It gathers data from meteo.gr, which is the most accurate weather forcast website in Greece, but does not provide an  application. It is in production stage, but new functionality still gets implemented. Currently, it supports only 3 Greek cities, and that is on purpose. 
+
+<hr>
+
 ## Games without spoilers
-http://gameswithoutspoilers.com
-A big project, currently in develompent. It is an online tool that hints some things about the plot of video games that may interest prospective players, without revealing much. Players should use it in order to decide if they will like the game beforehand. 
+https://gameswithoutspoilers.com
+A big project, currently in develompent. It is an online tool that hints some things about the plot of video games that may interest prospective players, without spoling anything. Players should use it in order to decide if they will like the game beforehand, and will learn only the info the want to learn about the plot of the game.
 
 <hr>
 
@@ -22,7 +28,7 @@ A small api to use in order to control your Philips Hue Lights, with respect to 
 <hr>
 
 ## Greek 
-http://greeknames.up.railway.app
+https://greeknames.up.railway.app
 This is a project that deals with the Greek language, so the description should be in Greek.
 Είναι ένα API το οποίο προσφέρεται επί πληρωμή και κάνει κλίση Ελληνικών ονομάτων. Το παραπάνω URL προσφέρει ένα δείγμα για "χειροκίνητη" δοκιμή της εφαρμογής. 
 
